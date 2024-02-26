@@ -1,0 +1,18 @@
+c:\users\takis\documents\visual studio 2015\Projects\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe.config
+c:\users\takis\documents\visual studio 2015\Projects\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe
+c:\users\takis\documents\visual studio 2015\Projects\ImageViewer\ImageViewer\bin\Debug\ImageViewer.pdb
+c:\users\takis\documents\visual studio 2015\Projects\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csprojResolveAssemblyReference.cache
+c:\users\takis\documents\visual studio 2015\Projects\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Form1.resources
+c:\users\takis\documents\visual studio 2015\Projects\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+c:\users\takis\documents\visual studio 2015\Projects\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.Cache
+c:\users\takis\documents\visual studio 2015\Projects\ImageViewer\ImageViewer\obj\Debug\ImageViewer.exe
+c:\users\takis\documents\visual studio 2015\Projects\ImageViewer\ImageViewer\obj\Debug\ImageViewer.pdb
+I:\University\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe.config
+I:\University\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe
+I:\University\ImageViewer\ImageViewer\bin\Debug\ImageViewer.pdb
+I:\University\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csprojResolveAssemblyReference.cache
+I:\University\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Form1.resources
+I:\University\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+I:\University\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.Cache
+I:\University\ImageViewer\ImageViewer\obj\Debug\ImageViewer.exe
+I:\University\ImageViewer\ImageViewer\obj\Debug\ImageViewer.pdb
